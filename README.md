@@ -48,6 +48,12 @@
 
   <tr>
     <td>Day 9</td>
-    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_09/day_09.ipynb">Polynomial Regression</a></td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_09/day_09.ipynb">Logistic Regression Classificataion</a></td>
   </tr>
+  
+  <tr>
+    <td>Day 10</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_10/day_10.ipynb">--</a></td>
+  </tr>
+  
 </table>
