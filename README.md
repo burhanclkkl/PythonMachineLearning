@@ -1,6 +1,7 @@
-### Python with Machine Learning
-<br>
+<div align="center">
+<samp>Python with Machine Learning</samp>
 
+<samp>
 <table>
   <tr>
     <th>Day</th>
@@ -77,3 +78,5 @@
   </tr>
   
 </table>
+</samp>
+</div>
