@@ -84,7 +84,7 @@
   
   <tr>
     <td>Day 16</td>
-    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_16/day_16.ipynb">Randon Forest Classification</a></td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_16/day_16.ipynb">Random Forest Classification</a></td>
   </tr>
   
   <tr>
