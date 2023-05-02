@@ -53,7 +53,27 @@
   
   <tr>
     <td>Day 10</td>
-    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_10/day_10.ipynb">--</a></td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_10/day_10.ipynb">Logistic Regression Classification</a></td>
+  </tr>
+
+  <tr>
+    <td>Day 11</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_11/day_11.ipynb">Logistic Regression Classification</a></td>
+  </tr>
+  
+  <tr>
+    <td>Day 12</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_12/day_12.ipynb">KNN Classification</a></td>
+  </tr>
+
+  <tr>
+    <td>Day 13</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_13/day_13.ipynb">--</a></td>
+  </tr>
+  
+  <tr>
+    <td>Day 14</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_14/day_14.ipynb">--</a></td>
   </tr>
   
 </table>
