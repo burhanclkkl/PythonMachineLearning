@@ -94,17 +94,27 @@
   
   <tr>
     <td>Day 18</td>
-    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_18/day_18.ipynb">--</a></td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_18/day_18.ipynb">-K-Means Clustering</a></td>
   </tr>
   
   <tr>
     <td>Day 19</td>
     <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_19/day_19.ipynb">--</a></td>
   </tr>
-  
+
   <tr>
     <td>Day 20</td>
     <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_20/day_20.ipynb">--</a></td>
+  </tr>
+
+  <tr>
+    <td>Day 21</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_21/day_21.ipynb">--</a></td>
+  </tr>
+    
+  <tr>
+    <td>Day 22</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_22/day_22.ipynb">--</a></td>
   </tr>
   
 </table>
