@@ -1,6 +1,6 @@
 <div align="center">
 <samp>Python with Machine Learning</samp>
-
+<br><br>
 <samp>
 <table>
   <tr>
@@ -69,12 +69,42 @@
 
   <tr>
     <td>Day 13</td>
-    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_13/day_13.ipynb">--</a></td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_13/day_13.ipynb">SVM Classification</a></td>
   </tr>
   
   <tr>
     <td>Day 14</td>
-    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_14/day_14.ipynb">--</a></td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_14/day_14.ipynb">Naive Bayes Classification</a></td>
+  </tr>
+  
+  <tr>
+    <td>Day 15</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_15/day_15.ipynb">Decision Tree Classification</a></td>
+  </tr>
+  
+  <tr>
+    <td>Day 16</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_16/day_16.ipynb">Random Forest Classification</a></td>
+  </tr>
+  
+  <tr>
+    <td>Day 17</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_17/day_17.ipynb">Evaluation Classification Model</a></td>
+  </tr>
+  
+  <tr>
+    <td>Day 18</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_18/day_18.ipynb">--</a></td>
+  </tr>
+  
+  <tr>
+    <td>Day 19</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_19/day_19.ipynb">--</a></td>
+  </tr>
+  
+  <tr>
+    <td>Day 20</td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_20/day_20.ipynb">--</a></td>
   </tr>
   
 </table>
