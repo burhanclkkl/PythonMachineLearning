@@ -94,7 +94,7 @@
   
   <tr>
     <td>Day 18</td>
-    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_18/day_18.ipynb">-K-Means Clustering</a></td>
+    <td><a href="https://github.com/burhanclkkl/PythonMachineLearning/blob/main/day_18/day_18.ipynb">K-Means Clustering</a></td>
   </tr>
   
   <tr>
